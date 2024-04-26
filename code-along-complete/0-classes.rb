@@ -6,6 +6,11 @@
 # String Class
 
 bens_favorite_food = "sushi"
+puts bens_favorite_food
+puts bens_favorite_food.class
+puts bens_favorite_food.upcase
+
+
 brians_favorite_food = "tacos"
 
 puts bens_favorite_food.class # type of thing this is (aka object)
